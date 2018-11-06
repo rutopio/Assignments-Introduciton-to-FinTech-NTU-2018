@@ -1,0 +1,14 @@
+goCandlePlot
+goMaTest
+goMinPeaks
+goOptimize01
+goOptimize02
+goEval01
+maPlot01
+maProfitEstimate01
+maProfitVsWindow01
+rsiProfitEstimate01
+rsiProfitVsWindow01
+profitEstimateOpen01
+myOptimAction
+profitEstimateOpen

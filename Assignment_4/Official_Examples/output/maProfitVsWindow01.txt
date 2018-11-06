@@ -1,0 +1,4 @@
+Reading spy.csv...
+[Warning: Variable names were modified to make them valid MATLAB identifiers. The original names are saved in the
+VariableDescriptions property.] 
+Best windowSize=296, max return rate=141.422%

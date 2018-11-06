@@ -1,0 +1,35 @@
+Reading spy.csv...
+[Warning: Variable names were modified to make them valid MATLAB identifiers. The original names are saved in the
+VariableDescriptions property.] 
+param0=[10 10], rate0=96.1161%
+ 
+ Iteration   Func-count     min f(x)         Procedure
+     0            1        -0.961161         
+     1            3        -0.961161         initial simplex
+     2            5        -0.992497         expand
+     3            6        -0.992497         reflect
+     4            8        -0.992497         contract inside
+     5           10         -1.04829         reflect
+     6           12         -1.53493         reflect
+     7           13         -1.53493         reflect
+     8           17         -1.53493         shrink
+     9           19         -1.53493         contract outside
+    10           23         -1.53493         shrink
+    11           27         -1.53493         shrink
+    12           31         -1.53493         shrink
+    13           32         -1.53493         reflect
+    14           34         -1.53493         contract outside
+    15           38         -1.53493         shrink
+    16           42         -1.53493         shrink
+    17           46         -1.53493         shrink
+    18           50         -1.53493         shrink
+    19           54         -1.53493         shrink
+    20           58         -1.53493         shrink
+    21           62         -1.53493         shrink
+    22           66         -1.53493         shrink
+ 
+Optimization terminated:
+ the current x satisfies the termination criteria using OPTIONS.TolX of 1.000000e-04 
+ and F(X) satisfies the convergence criteria using OPTIONS.TolFun of 1.000000e-04 
+
+paramBest=[8.5 11.25], rate=153.493%
