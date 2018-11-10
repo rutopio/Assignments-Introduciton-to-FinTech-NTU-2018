@@ -34,6 +34,3 @@ for ic in range(dataCount):
         assert False
     total[ic]=capital+stockHolding[ic]*currPrice
 returnRate=(total[-1]-capitalOrig)/capitalOrig     
-
-
-print(returnRate)
